@@ -1,4 +1,4 @@
-# MagicSquare2 (4x4 Custom Sum Magic Square Generator)
+# PyMagicSquares (4x4 Custom Sum Magic Square Generator)
 
 This Python package generates **4x4 magic squares** with a **custom target sum** using a modular algorithm based on two disjoint value sets and structural masks.
 
